@@ -1,6 +1,15 @@
 # PVC_investigacion
 
-1. Aplanar img
-2. Downsampling/Oversmapling
-3. test en k folds
-4. NO usar mask en for
+# Ejercicio 1
+
+- Añadir mas filtros
+- Hacer metricas
+- Postprocesado -> opcional
+- Añadir acc y loss
+
+# Ejercicio 2
+
+- Hacer mascaras
+- Hacer métricas
+- Guardar img en disco
+- Comprobar clasificacion con las mascaras
