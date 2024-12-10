@@ -2,11 +2,7 @@
 
 # Ejercicio 1
 
-- Añadir mas filtros
-- Hacer metricas
-- Postprocesado -> opcional
-- Añadir acc y loss
-
+- Probar si poner solo color y spectral
 # Ejercicio 2
 
 - Hacer mascaras
