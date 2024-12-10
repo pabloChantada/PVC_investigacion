@@ -2,7 +2,9 @@
 
 # Ejercicio 1
 
--- Añadir la baseline
+- Añadir la baseline
+- Sobel mejor con gaussiano
+
 
 # Ejercicio 2
 
